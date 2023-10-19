@@ -10,7 +10,7 @@ This repository contains solutions in my LeetCode problem. (I only kept the prob
 Private Repository. Just to keep my code
 One day I'm gonna make a blog that describe how I came up this those solutions on LeetCode.
 
-I will add the first solution I got in my head and it got 100% on testcase and then I will add the best solution I found on from other people.
+I will add the first solution I got in my head and it got 100% on testcase and then I will add the best solution I found on LeetCode from other people.
 
 [leetcode-picture]: src/image/LeetCode_logo_rvs_half_percent.png
 [leetcode-shield]: https://img.shields.io/badge/LeetCode-LapisBerry-white?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=%23FFA116
